@@ -2,6 +2,7 @@
 --  UNITY CATALOG DATA EXPLORATION LAB
 --  Run each module statement-by-statement (cursor on statement, Run)
 --  or run the whole thing with Run All.
+-- Check in
 -- ============================================================
 
 -- ==========================================================
